@@ -1,6 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Sakshya Tripathi😉</h1>
 <h3 align="center">An enthusiastic frontend developer from India</h3>
+<br>
+<p align="center">
+    <img src="https://github.com/sakshya25/sakshya25/blob/main/gitartwork.svg" />
+</p>   
 <img align="right" alt="Coding" width="500" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif" alt="sakshya25">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshya25&label=Profile%20views&color=0e75b6&style=flat" alt="sakshya25" /> </p>
 
